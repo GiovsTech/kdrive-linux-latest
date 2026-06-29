@@ -7,11 +7,11 @@ It automatically fetches the newest version from Infomaniak's JSON endpoint and 
 ## Stable URLs (for Gear Lever)
 
 ### AMD64 (x86_64)
-[AMD64](https://github.com/GiovsTech/kdrive-linux-latest/releases/download/latest/kDrive-latest-amd64.AppImage)
+[https://github.com/GiovsTech/kdrive-linux-latest/releases/download/latest/kDrive-latest-amd64.AppImage](https://github.com/GiovsTech/kdrive-linux-latest/releases/download/latest/kDrive-latest-amd64.AppImage)
 
 
 ### ARM64
-[ARM64](https://github.com/GiovsTech/kdrive-linux-latest/releases/download/latest/kDrive-latest-arm64.AppImage)
+[https://github.com/GiovsTech/kdrive-linux-latest/releases/download/latest/kDrive-latest-arm64.AppImage](https://github.com/GiovsTech/kdrive-linux-latest/releases/download/latest/kDrive-latest-arm64.AppImage)
 
 
 ## How to Use with Gear Lever
